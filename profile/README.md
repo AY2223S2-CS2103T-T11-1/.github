@@ -4,3 +4,4 @@ Well Informed Fridge Environment (<WIFE/>) is a fridge management system that he
 
 Project related links:
 - [Google drive](https://drive.google.com/drive/folders/1K5lJpu4OhxjUx_qEVeNIUzoCwNx-j8lO?usp=sharing)
+- [Excalidraw](https://excalidraw.com/#room=763b28e7b8410ac77fe3,e00CtYSiHU8uQe4GYhAWAg)
